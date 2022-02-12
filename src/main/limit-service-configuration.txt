@@ -1,1 +1,2 @@
-abu sayed
+limits-service.minimum=20
+limits-service.maximum=2000
